@@ -6,3 +6,6 @@ The datasets include total COVID-19 infections and fatalities as well as mortali
 All information can be found in the following paper:
 Pansini R & Fornacca D, 2020. <i>Initial evidence of higher morbidity and mortality due to SARS-CoV-2 in regions with lower air quality</i>, medRxiv, https://doi.org/10.1101/2020.04.04.20053595. Available at https://www.medrxiv.org/content/10.1101/2020.04.04.20053595v2
 
+**Links to datasets (csv format):**
+- With COVID-19 data updated on 2020.03.24: `covid_air_china.csv`
+- With COVID-19 data updated on 2020.05.23: 
