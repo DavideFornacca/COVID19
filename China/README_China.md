@@ -23,7 +23,7 @@ The datasets include total COVID-19 infections and fatalities as well as mortali
 - **COVID-19**: Chinese government health commission, through the DXY (DX Doctor) website. http://ncov.dxy.cn/ncovh5/view/en_pneumonia
 - **Population**: Chinese provincial governments, available at https://www.citypopulation.de/
 - **Air quality ground measures**: http://aqicn.org, data organized and made available on the University of Harvard Dataverse, https://dataverse.harvard.edu
-- **Air Quality satellite measures**: European Space Agency, Sentinel-5 Atmospheric variables accessed and processed through the Google Earth Engine platform: Sentinel-5 Atmospheric variables
+- **Air Quality satellite measures**: European Space Agency, Sentinel-5 Atmospheric variables accessed and processed through the Google Earth Engine platform: https://developers.google.com/earthengine/datasets/tags/air-quality
 
 #### Publications
 All information can be found in the following paper:
