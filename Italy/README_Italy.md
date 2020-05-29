@@ -19,7 +19,7 @@ The datasets include total accumulated COVID-19 infections, infections normalize
 - **COVID-19**: Dipartimento della Protezione Civile, http://www.protezionecivile.it/
 - **Population**: Istat – Italian National Institute of Statistics, http://dati.istat.it/
 - **Air quality ground measures**: Ambient Air Quality Database, WHO, April 2018, https://www.who.int/airpollution/data/cities/en/
-- **Air Quality satellite measures**: European Space Agency, Sentinel-5 Atmospheric variables accessed and processed through the Google Earth Engine platform: https://developers.google.com/earthengine/datasets/tags/air-quality
+- **Air quality satellite measures**: European Space Agency, Sentinel-5 Atmospheric variables accessed and processed through the Google Earth Engine platform: https://developers.google.com/earthengine/datasets/tags/air-quality
 
 #### Publications
 All information can be found in the following paper:
