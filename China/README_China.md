@@ -1,10 +1,10 @@
 # Details for China
 In this folder, you will find datasets of China (including Hong Kong SAR, Macao SAR, and Taiwan) at the second administrative level or ADM2 (referred as prefectures or cities).
-The datasets include total COVID-19 infections and fatalities as well as mortality rates (fatalities/infections), infections and fatalities normalized by population size (100k residents), population size and densities, and air pollution metrics from ground stations and satellite observations (Sentinel-5).
+The datasets include total accumulated COVID-19 infections and fatalities as well as mortality rates (fatalities/infections), infections and fatalities normalized by population size (100k residents), population size and densities, and air pollution metrics from ground stations and satellite observations (Sentinel-5).
 
 #### Links to the datasets (.csv format)
-- With COVID-19 data updated on 2020.03.24: `covid_air_china_s5_20200324.csv` [[file]](covid_air_china_s5_20200324.csv)
-- With COVID-19 data updated on 2020.05.23: `covid_air_china_s5_20200523.csv` [[file]](covid_air_china_s5_20200523.csv)
+- With COVID-19 data accumulated until 2020.03.24: `covid_air_china_s5_20200324.csv` [[file]](covid_air_china_s5_20200324.csv)
+- With COVID-19 data accumulated until 2020.05.23: `covid_air_china_s5_20200523.csv` [[file]](covid_air_china_s5_20200523.csv)
     
 #### Columns description
 - <ins>province</ins>: Name of province (ADM1)
@@ -23,7 +23,7 @@ The datasets include total COVID-19 infections and fatalities as well as mortali
 - **COVID-19**: Chinese government health commission, through the DXY (DX Doctor) website. http://ncov.dxy.cn/ncovh5/view/en_pneumonia
 - **Population**: Chinese provincial governments, available at https://www.citypopulation.de/
 - **Air quality ground measures**: http://aqicn.org, data organized and made available on the University of Harvard Dataverse, https://dataverse.harvard.edu
-- **Air Quality satellite measures**: European Space Agency, Sentinel-5 Atmospheric variables accessed and processed through the Google Earth Engine platform: https://developers.google.com/earthengine/datasets/tags/air-quality
+- **Air quality satellite measures**: European Space Agency, Sentinel-5 Atmospheric variables accessed and processed through the Google Earth Engine platform: https://developers.google.com/earthengine/datasets/tags/air-quality
 
 #### Publications
 All information can be found in the following paper:
