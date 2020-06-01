@@ -26,5 +26,6 @@ The datasets include total accumulated COVID-19 infections and fatalities as wel
 - **Air quality satellite measures**: European Space Agency, Sentinel-5 Atmospheric variables accessed and processed through the Google Earth Engine platform: https://developers.google.com/earthengine/datasets/tags/air-quality
 
 #### Publications
-All information can be found in the following paper:
-Pansini R & Fornacca D, 2020. _Initial evidence of higher morbidity and mortality due to SARS-CoV-2 in regions with lower air quality_, medRxiv, https://doi.org/10.1101/2020.04.04.20053595. Available at https://www.medrxiv.org/content/10.1101/2020.04.04.20053595v2
+All information can be found in the following papers:
+- Pansini R & Fornacca D, 2020. _COVID-19 higher morbidity and mortality in Chinese regions with lower air quality_, medRxiv, https://doi.org/10.1101/2020.05.28.20115832. Available at https://www.medrxiv.org/content/10.1101/2020.05.28.20115832v1
+- Pansini R & Fornacca D, 2020. _Initial evidence of higher morbidity and mortality due to SARS-CoV-2 in regions with lower air quality_, medRxiv, https://doi.org/10.1101/2020.04.04.20053595. Available at https://www.medrxiv.org/content/10.1101/2020.04.04.20053595v2
