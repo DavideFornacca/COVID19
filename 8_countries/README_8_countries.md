@@ -23,6 +23,7 @@ The datasets include total accumulated COVID-19 data (infections, deaths, and mo
 - <ins>deaths</ins>: Number of COVID-19 fatalities
 - <ins>deaths_100k</ins>: Number of COVID-19 fatalities per 100.000 inhabitants
 - <ins>mortality</ins>: deaths/cases*100
+- <ins>PM25_gr</ins>, <ins>PM10_gr</ins>, <ins>CO_gr</ins>, <ins>NO2_gr</ins>, <ins>O3_gr</ins>, <ins>SO2_gr</ins>: Ground measures of different pollutants (AQI averages 2014, or μg/m3 averages 2013-2016, or μg/m3, ppm, ppb of 2019, according to country and pollutant)
 - <ins>NO2_sat</ins>: 1996-2012 average of global 3-Year running mean ground-level NO2, ppb (average of the administrative unit's territory)
 - <ins>PM25_sat</ins>: 1998-2016 average of global annual PM 2.5, μg/m3 (average of the administrative unit's territory)
 - <ins>Z-score</ins>: Z-score of Local Moran’s Bivariate statistic (spatial clustering)
@@ -30,10 +31,7 @@ The datasets include total accumulated COVID-19 data (infections, deaths, and mo
 - <ins>q-value</ins>: q-value of Local Moran’s Bivariate statistic (spatial clustering)
 
 #### Data sources
-- **COVID-19**: Chinese government health commission, through the DXY (DX Doctor) website. http://ncov.dxy.cn/ncovh5/view/en_pneumonia
-- **Population**: Chinese provincial governments, available at https://www.citypopulation.de/
-- **Air quality ground measures**: http://aqicn.org, data organized and made available on the University of Harvard Dataverse, https://dataverse.harvard.edu
-- **Air quality satellite measures**: European Space Agency, Sentinel-5 Atmospheric variables accessed and processed through the Google Earth Engine platform: https://developers.google.com/earthengine/datasets/tags/air-quality
+
 
 #### Publications
 All information can be found in the following papers:
