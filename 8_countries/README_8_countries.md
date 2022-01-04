@@ -14,8 +14,8 @@ The datasets include total accumulated COVID-19 data (infections, deaths, and mo
 - **USA**, COVID-19 data updated until 2020-05-21: `covid_air_USA_20200521.csv` [[file]](covid_air_USA_20200521.csv)
 
 #### Columns description
-- <ins>province</ins>: Name of province (ADM1)
-- <ins>prefecture</ins>: Name of prefecture/city (ADM2)
+- <ins>province</ins>: ADM1, in some cases it may be region, state, or other
+- <ins>prefecture</ins>: ADM2, in other cases province, department, district, or other
 - <ins>pop</ins>: Number of inhabitants (estimates 2017)
 - <ins>pop_dens</ins>: Number of inhabitants per square kilometer
 - <ins>cases</ins>: Number of COVID-19 infections
