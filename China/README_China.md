@@ -1,4 +1,4 @@
-# Details for China
+# Detail for China
 In this folder, you will find datasets of China (including Hong Kong SAR, Macao SAR, and Taiwan) at the second administrative level or ADM2 (referred as prefectures or cities).
 The datasets include total accumulated COVID-19 infections and fatalities as well as mortality rates (fatalities/infections), infections and fatalities normalized by population size (100k residents), population size and densities, and air pollution metrics from ground stations and satellite observations (Sentinel-5).
 
