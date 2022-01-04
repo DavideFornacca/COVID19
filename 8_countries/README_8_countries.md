@@ -12,3 +12,28 @@ The datasets include total accumulated COVID-19 data (infections, deaths, and mo
 - **Spain** (Autonomous regions considered as provinces), COVID-19 data updated until 2020-05-02: `covid_air_SPAIN_20200502.csv` [[file]](covid_air_SPAIN_20200502.csv)
 - **UK**, COVID-19 data updated until 2020-05-30: `covid_air_UK_20200530.csv` [[file]](covid_air_UK_20200530.csv)
 - **USA**, COVID-19 data updated until 2020-05-21: `covid_air_USA_20200521.csv` [[file]](covid_air_USA_20200521.csv)
+
+#### Columns description
+- <ins>province</ins>: Name of province (ADM1)
+- <ins>prefecture</ins>: Name of prefecture/city (ADM2)
+- <ins>pop</ins>: Number of inhabitants (estimates 2017)
+- <ins>pop_dens</ins>: Number of inhabitants per square kilometer
+- <ins>cases</ins>: Number of COVID-19 infections
+- <ins>cases_100k</ins>: Number of COVID-19 infections per 100,000 inhabitants
+- <ins>deaths</ins>: Number of COVID-19 fatalities
+- <ins>deaths_100k</ins>: Number of COVID-19 fatalities per 100.000 inhabitants
+- <ins>mortality</ins>: deaths/cases*100
+- <ins>CO_s5</ins>, <ins>NO2_s5</ins>, <ins>O3_s5</ins>, <ins>SO2_s5</ins>, <ins>Aerosol_s5</ins>, <ins>HCHO_s5</ins>: Tropospheric column measures of different pollutants in mol/m^2 (average of year 2019), derived from Sentinel-5 data. UV Aerosol Index is a qualitative index.
+- <ins>PM25_gr</ins>, <ins>PM10_gr</ins>, <ins>CO_gr</ins>, <ins>NO2_gr</ins>, <ins>O3_gr</ins>, <ins>SO2_gr</ins>: Ground measures of different pollutants (AQI averages 2014)
+
+#### Data sources
+- **COVID-19**: Chinese government health commission, through the DXY (DX Doctor) website. http://ncov.dxy.cn/ncovh5/view/en_pneumonia
+- **Population**: Chinese provincial governments, available at https://www.citypopulation.de/
+- **Air quality ground measures**: http://aqicn.org, data organized and made available on the University of Harvard Dataverse, https://dataverse.harvard.edu
+- **Air quality satellite measures**: European Space Agency, Sentinel-5 Atmospheric variables accessed and processed through the Google Earth Engine platform: https://developers.google.com/earthengine/datasets/tags/air-quality
+
+#### Publications
+All information can be found in the following papers:
+- Pansini R & Fornacca D, 2021. COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality. _Front. Public Health_ **8**:597753. https://doi.org/10.3389/fpubh.2020.597753
+- Pansini R & Fornacca D, 2020. COVID-19 Higher Morbidity and Mortality in Chinese Regions with lower Air Quality. _medRxiv_. https://doi.org/10.1101/2020.05.28.20115832 (preprint)
+- Pansini R & Fornacca D, 2020. Initial Evidence of Higher Morbidity and Mortality Due to SARS-CoV-2 in Regions with Lower Air Quality. _medRxiv_. https://doi.org/10.1101/2020.04.04.20053595 (preprint)
