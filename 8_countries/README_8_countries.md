@@ -1,6 +1,6 @@
 # Detail for 8 countries
 In this folder, you will find a datasets of 8 countries at the second administrative level or ADM2 (referred as provinces in Italy, France, and Spain, counties in the US, prefectures of China, departments in France, LTLA/NHS in the UK, districts in Germany) and in some cases at the firts administrative level or ADM1 (regions in Italy, provinces in Iran).
-The datasets include total accumulated COVID-19 data (infections, deaths, and mortality rates), COVID-19 data normalized by population size (100k residents), population size and densities, air pollution metrics from ground stations (China, Italy, and the US) and satellite observations (NASA), z-scores and p-values results of Local Moran’s Bivariate statistic.    
+The datasets include total accumulated COVID-19 data (infections, deaths, and mortality rates), COVID-19 data normalized by population size (100k residents), population size and densities, air pollution metrics from ground stations (China, Italy, and the US) and satellite observations (NASA), Z-scores and p-values results of Local Moran’s Bivariate statistic.    
  
 #### Links to the datasets (.csv format)
 - **China**, COVID-19 data updated until 2020-05-23: `covid_air_CH_20200523.csv` [[file]](covid_air_CH_20200523.csv)
@@ -16,15 +16,18 @@ The datasets include total accumulated COVID-19 data (infections, deaths, and mo
 #### Columns description
 - <ins>province</ins>: ADM1, in some cases it may be region, state, or other
 - <ins>prefecture</ins>: ADM2, in other cases province, department, district, or other
-- <ins>pop</ins>: Number of inhabitants (estimates 2017)
+- <ins>pop</ins>: Number of inhabitants (census or estimates 2016-2020, according to country)
 - <ins>pop_dens</ins>: Number of inhabitants per square kilometer
 - <ins>cases</ins>: Number of COVID-19 infections
 - <ins>cases_100k</ins>: Number of COVID-19 infections per 100,000 inhabitants
 - <ins>deaths</ins>: Number of COVID-19 fatalities
 - <ins>deaths_100k</ins>: Number of COVID-19 fatalities per 100.000 inhabitants
 - <ins>mortality</ins>: deaths/cases*100
-- <ins>CO_s5</ins>, <ins>NO2_s5</ins>, <ins>O3_s5</ins>, <ins>SO2_s5</ins>, <ins>Aerosol_s5</ins>, <ins>HCHO_s5</ins>: Tropospheric column measures of different pollutants in mol/m^2 (average of year 2019), derived from Sentinel-5 data. UV Aerosol Index is a qualitative index.
-- <ins>PM25_gr</ins>, <ins>PM10_gr</ins>, <ins>CO_gr</ins>, <ins>NO2_gr</ins>, <ins>O3_gr</ins>, <ins>SO2_gr</ins>: Ground measures of different pollutants (AQI averages 2014)
+- <ins>NO2_sat</ins>: 1996-2012 average of global 3-Year running mean ground-level NO2, ppb (average of the administrative unit's territory)
+- <ins>PM25_sat</ins>: 1998-2016 average of global annual PM 2.5, μg/m3 (average of the administrative unit's territory)
+- <ins>Z-score</ins>: Z-score of Local Moran’s Bivariate statistic (spatial clustering)
+- <ins>p-value</ins>: p-value of Local Moran’s Bivariate statistic (spatial clustering)
+- <ins>q-value</ins>: q-value of Local Moran’s Bivariate statistic (spatial clustering)
 
 #### Data sources
 - **COVID-19**: Chinese government health commission, through the DXY (DX Doctor) website. http://ncov.dxy.cn/ncovh5/view/en_pneumonia
