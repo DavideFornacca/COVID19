@@ -28,5 +28,6 @@ The datasets include total accumulated COVID-19 infections and fatalities as wel
 
 #### Publications
 All information can be found in the following papers:
-- Pansini R & Fornacca D, 2020. _COVID-19 higher morbidity and mortality in Chinese regions with lower air quality_, medRxiv, https://doi.org/10.1101/2020.05.28.20115832. Available at https://www.medrxiv.org/content/10.1101/2020.05.28.20115832v1
-- Pansini R & Fornacca D, 2020. _Initial evidence of higher morbidity and mortality due to SARS-CoV-2 in regions with lower air quality_, medRxiv, https://doi.org/10.1101/2020.04.04.20053595. Available at https://www.medrxiv.org/content/10.1101/2020.04.04.20053595v2
+- Pansini R & Fornacca D, 2021. COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality. _Front. Public Health_ **8**: 597753. https://doi.org/10.3389/fpubh.2020.597753
+- Pansini R & Fornacca D, 2020. COVID-19 Higher Morbidity and Mortality in Chinese Regions with lower Air Quality. _medRxiv_. https://doi.org/10.1101/2020.05.28.20115832 (preprint)
+- Pansini R & Fornacca D, 2020. Initial Evidence of Higher Morbidity and Mortality Due to SARS-CoV-2 in Regions with Lower Air Quality. _medRxiv_. https://doi.org/10.1101/2020.04.04.20053595 (preprint)
