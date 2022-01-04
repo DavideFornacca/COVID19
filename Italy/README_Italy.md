@@ -23,5 +23,5 @@ The datasets include total accumulated COVID-19 infections, infections normalize
 
 #### Publications
 All information can be found in the following paper:
-- Pansini R & Fornacca D, 2020. Initial Evidence of Higher Morbidity and Mortality Due to SARS-CoV-2 in Regions with Lower Air Quality. _medRxiv_. https://doi.org/10.1101/2020.04.04.20053595 (preprint)
+Pansini R & Fornacca D, 2020. Initial Evidence of Higher Morbidity and Mortality Due to SARS-CoV-2 in Regions with Lower Air Quality. _medRxiv_. https://doi.org/10.1101/2020.04.04.20053595 (preprint)
 
