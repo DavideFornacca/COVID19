@@ -31,7 +31,7 @@ The datasets include total accumulated COVID-19 data (infections, deaths, and mo
 - <ins>q-value</ins>: q-value of Local Moran’s Bivariate statistic (spatial clustering)
 
 #### Data sources
-
+For the complete list od data sources, see Table 1 in the original publication (https://doi.org/10.3390/atmos12060795)
 
 #### Publications
 All information can be found in the following papers:
