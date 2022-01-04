@@ -3,4 +3,6 @@ In this folder, you will find a datasets of 8 countries at the second administra
 The datasets include total accumulated COVID-19 data (infections, deaths, and mortality rates), COVID-19 data normalized by population size (100k residents), population size and densities, air pollution metrics from ground stations (China, Italy, and the US) and satellite observations (NASA), z-scores and p-values results of Local Moran’s Bivariate statistic.    
  
 #### Links to the datasets (.csv format)
+- China, with COVID-19 data updated until 2020-05-23: 'covid_air_CH_20200523.csv' [[file]](covid_air_CH_20200523.csv)
+- Germany, with COVID-19 data updated until 2020-05-25: 'covid_air_DE_20200525.csv' [[file]](covid_air_DE_20200525.csv)
 
