@@ -1,4 +1,4 @@
-# Details for the U.S.A.
+# Detail for the U.S.A.
 In this folder, you will find a datasets of the U.S.A. at the second administrative level or ADM2 (referred as counties).
 The datasets include total accumulated COVID-19 infections and fatalities, infections and fatalities normalized by population size (100k residents), population size and densities, and air pollution metrics from ground stations and satellite observations (Sentinel-5).  
  
