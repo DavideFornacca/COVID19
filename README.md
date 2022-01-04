@@ -8,5 +8,5 @@ We will share here the datasets compiled, all  original data sources, and public
 - COVID-19 and air pollution from Sentinel-5 in the USA: [[readme]](USA/README_USA.md)
 
 #### Publications:
-- Pansini R and Fornacca D (2021) COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality. Front. Public Health 8:597753. doi: 10.3389/fpubh.2020.597753
-- 
+- Pansini R, Fornacca D. COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality. Front. Public Health 2021; 8:597753. https://doi.org/10.3389/fpubh.2020.597753
+- Pansini R, Fornacca D. Early Spread of COVID-19 in the Air-Polluted Regions of Eight Severely Affected Countries. Atmosphere. 2021; 12(6):795. https://doi.org/10.3390/atmos12060795
