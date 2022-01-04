@@ -1,4 +1,4 @@
-# Details for Italy
+# Detail for Italy
 In this folder, you will find a datasets of Italy at the second administrative level or ADM2 (referred as provinces).
 The datasets include total accumulated COVID-19 infections, infections normalized by population size (100k residents), population size and densities, and air pollution metrics from ground stations and satellite observations (Sentinel-5). Unfortunately, data on COVID-19 fatalities are not available at this administrative level.  
  
