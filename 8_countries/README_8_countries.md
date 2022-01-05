@@ -3,15 +3,15 @@ In this folder, you will find a datasets of 8 countries at the second administra
 The datasets include total accumulated COVID-19 data (infections, deaths, and mortality rates), COVID-19 data normalized by population size (100k residents), population size and densities, air pollution metrics from ground stations (China, Italy, and the US) and satellite observations (NASA), Z-scores and p-values results of Local Moran’s Bivariate statistic.    
  
 #### Links to the datasets (.csv format)
-- **China**, COVID-19 data updated until 2020-05-23: `covid_air_CH_20200523.csv` [[file]](covid_air_CH_20200523.csv)
-- **Germany**, COVID-19 data updated until 2020-05-25: `covid_air_DE_20200525.csv` [[file]](covid_air_DE_20200525.csv)
-- **France** (only deaths), COVID-19 data updated until 2020-05-22: `covid_air_FR_20200522.csv` [[file]](covid_air_FR_20200522.csv)
-- **Iran** (ADM1, only infections), COVID-19 data updated until 2020-03-22: `covid_air_IRAN_20200322.csv` [[file]](covid_air_IRAN_20200322.csv)
-- **Italy** (ADM2, infections), COVID-19 data updated until 2020-05-22: `covid_air_IT_province_20200522.csv` [[file]](covid_air_IT_province_20200522.csv)
-- **Italy** (ADM1, deaths), COVID-19 data updated until 2020-05-22: `covid_air_IT_region_20200522.csv` [[file]](covid_air_IT_region_20200522.csv)
-- **Spain** (Autonomous regions considered as provinces), COVID-19 data updated until 2020-05-02: `covid_air_SPAIN_20200502.csv` [[file]](covid_air_SPAIN_20200502.csv)
-- **UK**, COVID-19 data updated until 2020-05-30: `covid_air_UK_20200530.csv` [[file]](covid_air_UK_20200530.csv)
-- **USA**, COVID-19 data updated until 2020-05-21: `covid_air_USA_20200521.csv` [[file]](covid_air_USA_20200521.csv)
+- **China**, COVID-19 data updated until 2020-05-23: [`covid_air_CH_20200523.csv`](covid_air_CH_20200523.csv)
+- **Germany**, COVID-19 data updated until 2020-05-25: [`covid_air_DE_20200525.csv`](covid_air_DE_20200525.csv)
+- **France** (only deaths), COVID-19 data updated until 2020-05-22: [`covid_air_FR_20200522.csv`](covid_air_FR_20200522.csv)
+- **Iran** (ADM1, only infections), COVID-19 data updated until 2020-03-22: [`covid_air_IRAN_20200322.csv`](covid_air_IRAN_20200322.csv)
+- **Italy** (ADM2, infections), COVID-19 data updated until 2020-05-22: [`covid_air_IT_province_20200522.csv`](covid_air_IT_province_20200522.csv)
+- **Italy** (ADM1, deaths), COVID-19 data updated until 2020-05-22: [`covid_air_IT_region_20200522.csv`](covid_air_IT_region_20200522.csv)
+- **Spain** (Autonomous regions considered as provinces), COVID-19 data updated until 2020-05-02: [`covid_air_SPAIN_20200502.csv`](covid_air_SPAIN_20200502.csv)
+- **UK**, COVID-19 data updated until 2020-05-30: [`covid_air_UK_20200530.csv`](covid_air_UK_20200530.csv)
+- **USA**, COVID-19 data updated until 2020-05-21: [`covid_air_USA_20200521.csv`](covid_air_USA_20200521.csv)
 
 #### Columns description
 - <ins>province</ins>: ADM1, in some cases it may be region, state, or other
