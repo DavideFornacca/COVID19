@@ -3,7 +3,7 @@ In this folder, you will find a datasets of Italy at the second administrative l
 The datasets include total accumulated COVID-19 infections, infections normalized by population size (100k residents), population size and densities, and air pollution metrics from ground stations and satellite observations (Sentinel-5). Unfortunately, data on COVID-19 fatalities are not available at this administrative level.  
  
 #### Links to the datasets (.csv format)
-- With accumulated COVID-19 data until 2020.03.23: `covid_air_italy_s5_20200323.csv` [[file]](covid_air_italy_s5_20200323.csv)
+- With accumulated COVID-19 data until 2020.03.23: [`covid_air_italy_s5_20200323.csv`](covid_air_italy_s5_20200323.csv)
     
 #### Columns description
 - <ins>region</ins>: Name of region (ADM1)
