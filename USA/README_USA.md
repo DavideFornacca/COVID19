@@ -3,7 +3,7 @@ In this folder, you will find a datasets of the U.S.A. at the second administrat
 The datasets include total accumulated COVID-19 infections and fatalities, infections and fatalities normalized by population size (100k residents), population size and densities, and air pollution metrics from ground stations and satellite observations (Sentinel-5).  
  
 #### Links to the datasets (.csv format)
-- With accumulated COVID-19 data until 2020.03.29: `covid_air_usa_s5_20200329.csv` [[file]](covid_air_usa_s5_20200329.csv)
+- With accumulated COVID-19 data until 2020.03.29: [`covid_air_usa_s5_20200329.csv`](covid_air_usa_s5_20200329.csv)
     
 #### Columns description
 - <ins>state</ins>: Name of state (ADM1)
