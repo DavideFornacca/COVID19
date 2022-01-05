@@ -3,9 +3,9 @@ In this folder, you will find datasets of China (including Hong Kong SAR, Macao 
 The datasets include total accumulated COVID-19 infections and fatalities as well as mortality rates (fatalities/infections), infections and fatalities normalized by population size (100k residents), population size and densities, and air pollution metrics from ground stations and satellite observations (Sentinel-5).
 
 #### Links to the datasets (.csv format)
-- With COVID-19 data accumulated until 2020.03.24: `covid_air_china_s5_20200324.csv` [[file]](covid_air_china_s5_20200324.csv)
-- With COVID-19 data accumulated until 2020.05.23: `covid_air_china_s5_20200523.csv` [[file]](covid_air_china_s5_20200523.csv) DOI: 10.13140/RG.2.2.24152.72968
-- With COVID-19 data accumulated until 2020.05.23 aggregated at provincial level: `covid_air_china_s5_20200523_province.csv` [[file]](covid_air_china_s5_20200523_province.csv)
+- With COVID-19 data accumulated until 2020.03.24: [`covid_air_china_s5_20200324.csv`](covid_air_china_s5_20200324.csv)
+- With COVID-19 data accumulated until 2020.05.23: [`covid_air_china_s5_20200523.csv`](covid_air_china_s5_20200523.csv) DOI: 10.13140/RG.2.2.24152.72968
+- With COVID-19 data accumulated until 2020.05.23 aggregated at provincial level: [`covid_air_china_s5_20200523_province.csv`](covid_air_china_s5_20200523_province.csv)
     
 #### Columns description
 - <ins>province</ins>: Name of province (ADM1)
